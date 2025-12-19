@@ -1,4 +1,4 @@
-# API Disparo Ativo – WhatsApp (BLiP)
+# API Disparo Ativo – WhatsApp (Kids&US)
 
 API em Node.js + TypeScript responsável por **receber dados via webhook** e realizar um **disparo ativo de campanha no WhatsApp** utilizando o **BLiP Active Campaign**.
 
